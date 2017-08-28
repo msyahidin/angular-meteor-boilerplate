@@ -6,3 +6,4 @@ typings
 build
 dist
 .DS_store
+/node_modules.zip
